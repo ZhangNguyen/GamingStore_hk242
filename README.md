@@ -10,6 +10,7 @@ Project for web course
 > This assumes you have **Node.js** and **npm** installed.
 
 ```bash
+cd web-hk242
 cd frontend
 npm install      # (only the first time)
 npm run dev
