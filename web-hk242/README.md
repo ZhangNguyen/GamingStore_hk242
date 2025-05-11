@@ -18,5 +18,6 @@ npm run dev
 1. **Start XAMPP services:**
 - Apache
 - MySQL
+2. **Put folder web-hk242 in folder htdocs**
 2. **Import the database:**
 - Import file mk_web.sql in backend folder
