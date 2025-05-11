@@ -13,7 +13,7 @@ Project for web course
 cd frontend
 npm install      # (only the first time)
 npm run dev
-
+```
 ### Run Backend
 1. **Start XAMPP services:**
 - Apache
